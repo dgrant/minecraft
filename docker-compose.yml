@@ -4,7 +4,7 @@ minecraft-server:
 
   environment:
     EULA: "TRUE"
-    VERSION: 1.13
+    VERSION: 1.13.2
     DIFFICULTY: easy
     WHITELIST: supr_dave
     OPS: supr_dave
